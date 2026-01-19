@@ -7,3 +7,9 @@ git config --global user.email 'jiyavurrahman80@gmail.com'   - To set Email.
 git config --global init.defaultBranch main                  - To name main defaultBranch
 
 git init                                                     - Initialize git in a specific folder
+
+git add "filename"                                           - To add a file into Git.
+
+git commit -m 'Notes'                                        - To save the changes we have made with a message
+
+git log                                                      - To see what are done by whom.
