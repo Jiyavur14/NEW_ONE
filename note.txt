@@ -1,4 +1,4 @@
-#this is bug2
+#this is bug2 its going to main branch
 
 git --version                                                - To check what version of git.
 
