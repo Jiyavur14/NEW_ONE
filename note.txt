@@ -1,0 +1,9 @@
+git --version                                                - To check what version of git.
+
+git config user.name 'Jiyavur14'                             - To set a Username.
+
+git config --global user.email 'jiyavurrahman80@gmail.com'   - To set Email.
+
+git config --global init.defaultBranch main                  - To name main defaultBranch
+
+git init                                                     - Initialize git in a specific folder
