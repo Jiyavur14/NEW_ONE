@@ -13,3 +13,7 @@ git add "filename"                                           - To add a file int
 git commit -m 'Notes'                                        - To save the changes we have made with a message
 
 git log                                                      - To see what are done by whom.
+
+git checkout "Hash_file_name"                                - to travel to past.
+
+git checkout main                                            - to travel to present.
