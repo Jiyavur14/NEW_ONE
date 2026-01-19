@@ -1,3 +1,5 @@
+#this is bug2
+
 git --version                                                - To check what version of git.
 
 git config user.name 'Jiyavur14'                             - To set a Username.
